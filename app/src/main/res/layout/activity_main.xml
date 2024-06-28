@@ -9,6 +9,7 @@
 
     <TextView
         android:id="@+id/textView"
+        android:textColor="@color/black"
         android:textStyle="bold"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -27,6 +28,7 @@
 
         <TextView
             android:id="@+id/tv_ecity"
+            android:textColor="@color/black"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
@@ -42,6 +44,7 @@
             android:layout_below="@+id/tv_ecity"
             android:layout_marginStart="9dp"
             android:layout_marginTop="9dp"
+            android:textColor="@color/black"
             android:layout_marginEnd="9dp"
             android:layout_marginBottom="9dp"
             android:gravity="center"
@@ -50,6 +53,7 @@
 
         <TextView
             android:id="@+id/tv_ec"
+            android:textColor="@color/black"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/et_ecity"
@@ -66,6 +70,7 @@
             android:layout_below="@+id/tv_ec"
             android:layout_marginStart="9dp"
             android:layout_marginTop="9dp"
+            android:textColor="@color/black"
             android:layout_marginEnd="9dp"
             android:layout_marginBottom="9dp"
             android:gravity="center"
